@@ -18,7 +18,7 @@ const About = () => {
             About Me
           </h2>
           <p className="text-gray-700 text-lg leading-relaxed">
-            Hello! I’m Giorgi Nadirdze, a passionate frontend developer with a knack for creating clean and user-friendly web designs. I specialize in React, JavaScript, and Tailwind CSS, and I love bringing ideas to life with code.
+            Hello! I’m Giorgi Nadiradze, a passionate frontend developer with a knack for creating clean and user-friendly web designs. I specialize in React, JavaScript, and Tailwind CSS, and I love bringing ideas to life with code.
           </p>
           <p className="text-gray-700 text-lg leading-relaxed mt-4">
             In my free time, I enjoy learning new technologies and refining my skills. My goal is to contribute to impactful projects and continuously grow as a developer.
